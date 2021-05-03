@@ -1,8 +1,6 @@
 import React from "react";
 import ticketsImage from "./../img/Ticket_MONSTER.png";
 
-
-
 function Header(){
   return (
     <React.Fragment>
