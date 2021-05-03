@@ -12,7 +12,7 @@ function NewTicketForm(props){
 
   return (
     <React.Fragment>
-      <ReusableForm 
+      <ReusableForm
         formSubmissionHandler={handleNewTicketFormSubmission}
         buttonText="Help!" />
     </React.Fragment>
